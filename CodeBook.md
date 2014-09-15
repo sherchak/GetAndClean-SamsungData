@@ -1,11 +1,7 @@
-==================================================================
-Human Activity Recognition Using Smartphones Tidied Dataset
-Version 1.0
-==================================================================
+###Human Activity Recognition Using Smartphones Tidied Dataset
+###Version 1.0
 Steven Herchak
-(ca.linkedin.com/in/stevenherchak)
-==================================================================
-
+ca.linkedin.com/in/stevenherchak
 
 The tidyData data set takes data obtained by [1] and refactors it into a single data array. From the README.txt in the data obtained in [1]:
 
